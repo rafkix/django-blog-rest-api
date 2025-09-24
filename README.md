@@ -118,5 +118,4 @@ The API is fully documented with **Swagger** and **Redoc**.
 
 ## 👨‍💻 Author
 
-Created by [Your Name](https://github.com/rafkix) ✨
-```
+Created by [Diyorbek](https://github.com/rafkix) ✨
