@@ -1,8 +1,4 @@
-Tushundim ✅ — siz `README.md` faylini shunday formatda xohlaysizki, unda faqat kerakli joylarda `bash` yoki `python` code bloklari bo‘lsin, qolgan yozuvlar oddiy markdown matn bo‘lsin. Oldingi variantimda hamma joy `bash` ichiga tushib ketayotgandek bo‘libdi.
-
-Mana siz uchun toza va to‘liq `README.md` 👇
-
-````markdown
+```markdown
 # 📝 Django Blog REST API
 
 A fully featured **Blog REST API** built with **Django** and **Django REST Framework (DRF)**.  
