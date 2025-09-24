@@ -1,4 +1,3 @@
-```markdown
 # 📝 Django Blog REST API
 
 A fully featured **Blog REST API** built with **Django** and **Django REST Framework (DRF)**.  
@@ -31,8 +30,7 @@ The API is fully documented with **Swagger** and **Redoc**.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/django-blog-rest-api.git
-   cd django-blog-rest-api
-````
+   cd django-blog-rest-api```
 
 2. Create and activate virtual environment:
 
