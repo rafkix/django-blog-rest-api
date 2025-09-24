@@ -31,4 +31,4 @@ The API is fully documented with **Swagger** and **Redoc**.
    ```bash
    git clone https://github.com/rafkix/django-blog-rest-api.git
    cd django-blog-rest-api
-  ```
+
